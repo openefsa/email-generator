@@ -44,9 +44,10 @@ public class Email {
 		Desktop.getDesktop().mail(new URI(mailTo));
 	}
 	
+	/*
 	private void addAttachment(File file) {  // NOT SUPPORTED YET
 		this.attachments.add(file);
-	}
+	}*/
 
 	/**
 	 * Format the e-mail recipients/subject/body into a mailto link
