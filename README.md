@@ -28,6 +28,5 @@ Once the parent project has been created add the project and all the dependencie
 Next, close the IDE and extract all the zip packets inside the parent project.
 At this stage you can simply open the IDE and import back the parent project which will automatically import also the project and all its dependencies.
 
-_Please note that the "SWT.jar" and the "Jface.jar" libraries (if used) must be downloaded and installed manually in the Maven local repository since are custom versions used in the tool ((install 3rd party jars)[https://maven.apache.org/guides/mini/guide-3rd-party-jars-local.html]). 
-Download the exact version by checking the Catalogue browser pom.xml file._
+_Please note that the "SWT.jar" and the "Jface.jar" libraries (if used) must be downloaded and installed manually in the Maven local repository since are custom versions used in the tool ((install 3rd party jars)[https://maven.apache.org/guides/mini/guide-3rd-party-jars-local.html])._
 
