@@ -5,7 +5,7 @@
 # Email generator
 This maven project module, written in Java, can be used for automatically redirects email used the system default client.
 
-# Dependencies
+## Dependencies
 All project dependencies are listed in the [pom.xml](pom.xml) file.
 
 ## Import the project
